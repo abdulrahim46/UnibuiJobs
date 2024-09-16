@@ -116,4 +116,10 @@ Swift package manager.
 CSV Parsing: CSV.swift
 
 
+## 📱 Screenshots
 
+<p float="left"> 
+<img src="/demo/sim1.png" width="100">
+<img src="/demo/sim2.png" width="100">
+<img src="/demo/sim3.png" width="100">
+</p>
